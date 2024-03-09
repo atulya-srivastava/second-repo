@@ -1,3 +1,3 @@
 # second-repo
 my second Git repository <br>
-author - atulya srivastava
+author - MR. atulya srivastava 
